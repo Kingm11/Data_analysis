@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
 
 
 import pandas as pd
@@ -31,8 +27,6 @@ def data_analysis(df):
 
     return df
 
-
-# In[ ]:
 
 
 
