@@ -22,7 +22,7 @@ https://archive.ics.uci.edu/ml/datasets/iris
 
 This function takes a pandas dataframe as input and performs the following operations:
 
-. Checks for missing values using Pandas isnull function, and drops them using dropna function if there are any.
+. Checks for missing values using Pandas isnull function data_analysis.py , and drops them using dropna function if there are any.
 
 . Checks for duplicate rows using Pandas duplicated function, and drops them using drop_duplicates function if there are any.
 
