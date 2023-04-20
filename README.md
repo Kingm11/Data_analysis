@@ -14,9 +14,9 @@ https://archive.ics.uci.edu/ml/datasets/iris
 
 ## Technologies Used
  
-  .Matlotlib
-  
-  .Seaborn
+ [.matpolib](https://matplotlib.org/)  
+
+[.seaborn](https://seaborn.pydata.org/)
 ## Steps
 ### 1.I define a function called data_analysis
 
